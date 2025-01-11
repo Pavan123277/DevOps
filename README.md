@@ -11,3 +11,6 @@
 Thanks [@paulgergely](https://twitter.com/paulgergely) for the initial flat design!
 
 Also see [elm-flatris](https://github.com/w0rm/elm-flatris).
+
+This is a test change edit to the Flantris readme by Brian - by Prince
+This is a test change edit to the Flantris readme by Prince again
