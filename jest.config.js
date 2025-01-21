@@ -5,3 +5,5 @@ module.exports = {
     '\\.css$': 'identity-obj-proxy'
   }
 };
+
+/* Her også er det en endring som skal inn i babel branch! */
