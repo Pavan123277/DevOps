@@ -1,5 +1,5 @@
 const path = require('path');
-
+/* Her gjør vi en endring som skal dukke opp babelbranch! */
 const alias = {
   shared: path.join(__dirname, 'shared')
 };
